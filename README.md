@@ -72,3 +72,5 @@ While prusti is comparatively simple to get started with, it's missing contracts
 Creusot is promising, but I was unable to get vscode integration working for it, which I consider a hard requirement for any verification tools.
 
 In the end verification tools are still new and don't integrate well into vscode, at least for a novice like me who is new to the space.
+
+Honestly I think it would be easier to personally finish writing the contracts for the standard rust library for prusti than use creusot.
