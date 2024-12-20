@@ -1,0 +1,9 @@
+{
+  "rust-analyzer.check.overrideCommand": [
+    "cargo",
+    "creusot",
+    "--",
+    "--message-format=json"
+  ],
+  "whycode.extraArgs": ["-L/path/to/creusot/prelude/"]
+}
